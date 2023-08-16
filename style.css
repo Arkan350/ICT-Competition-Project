@@ -1,0 +1,41 @@
+.arkan {
+    font-size: 30px;
+    margin-top: 0;
+    width: 100%;
+}
+.shinchan {
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+.shinchan:hover{
+    font-size: small;
+}
+#dora {
+    font-size: 25px;
+    width: 8%;
+    font-weight: bolder;
+}
+#gorilla {
+    float:left;
+}
+#horse {
+        float:right;
+}
+.img1 {
+    width: 200px;
+    margin-left: 30px;
+    border-radius: 100%;
+}
+.Idiot {
+    font-size: 25px;
+    font-weight: bold;
+}
+canvas {
+    border: 5px dashed wheat;
+    box-shadow: 5px 5px 25px lightpink;
+    border-radius: 3%;
+}
+body{
+    background-size: cover;
+}
